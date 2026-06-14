@@ -40,7 +40,7 @@ Entre sus características principales se incluyen un sistema de navegación cla
 
 ---
 
-© 2024 [Venuz25](https://github.com/Venuz25) | **ProyectoMD** | [URL del Repositorio](https://github.com/Venuz25/ProyectoMD)
+© 2024 [Areli Guevara](https://github.com/Venuz25) | **ProyectoMD** 
 Construido con ❤️ y HTML, CSS, JavaScript.
 
 ---
